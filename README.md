@@ -1,5 +1,4 @@
-Hi, I'm Ritik 👋
-
+# Hi, I'm **Ritik Pandey** 👋
 I'm a MERN Stack Developer who loves building web applications, learning new technologies, and solving real-world problems through code. Currently focused on full-stack development and growing as a software engineer.
 <br>
 
